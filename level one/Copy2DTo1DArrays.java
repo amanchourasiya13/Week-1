@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
-public class Copy2DTo1DArray {
+public class Copy2DTo1DArrays{
     public static void main(String[] args) {
+
         // Create Scanner object for user input
         Scanner input = new Scanner(System.in);
 

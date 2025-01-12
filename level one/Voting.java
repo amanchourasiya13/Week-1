@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class VotingEligibility {
+public class Voting{
     public static void main(String[] args) {
         // Create a input object 
         Scanner input = new Scanner(System.in);

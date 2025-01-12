@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Multiplication5 {
+public class MultiplicationTable {
     public static void main(String[] args) {
 
         // Create a input object 
@@ -13,20 +13,15 @@ public class Multiplication5 {
         // Define an array 
            int[] n = new int[10];
      
-//loop the number and store the multiplication in array or save in result
 
-if(number>=6 && number<=9){
-            for (int i =1; i<=10; i++){
+        // Loop the array and take input for each student's age
+            for (int i =1; i<=10; i++) {
           int result=number*i;
             n[i-1]=result;
-
      // Print the multiplication in the format number * i = result
             System.out.println(number + " * " + i + " = " + result);
-                              }
-                                              }
-else{ 
-System.out.println("number is not from 6 to 9 table");
- }
-      
+                                               } 
+        // Close the input object
+            input.close();
     }
 }

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NumberCheck {
+public class NumbersCheck {
     public static void main(String[] args) {
         // Create a input object 
            Scanner input = new Scanner(System.in);

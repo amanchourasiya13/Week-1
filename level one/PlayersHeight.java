@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Players{
+public class PlayersHeight{
     public static void main(String[] args) {
         // Create a input object 
            Scanner input = new Scanner(System.in);

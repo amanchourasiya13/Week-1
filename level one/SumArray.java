@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ArraySum {
+public class SumArray {
     public static void main(String[] args) {
 
         // Create an array  or variables 

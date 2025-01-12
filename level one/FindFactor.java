@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FindFactors {
+public class FindFactor{
     public static void main(String[] args) {
         // Create input object for input
         Scanner input = new Scanner(System.in);
